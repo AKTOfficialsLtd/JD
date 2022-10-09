@@ -1,0 +1,40 @@
+body {
+    background-image: url("bg.svg");
+    background-size: cover;
+}
+
+.btn {
+    margin: 0%;
+    padding: 0%;
+    margin-top: 35%;
+    float: left;
+    margin-left: 3%;
+    background-color: white;
+    border-bottom-color: #282928;
+    border-style: solid;
+    border-radius: 2px;
+    color: #6a6e6b;
+    font-weight: 1000;
+    font-size: medium;
+    border: 0px;
+}
+
+#a {
+    margin-left: 38%;
+}
+
+.b {
+    margin: 0%;
+    padding: 0%;
+    margin-top: 35%;
+    float: left;
+    margin-left: 3%;
+    background-color: white;
+    border-bottom-color: #282928;
+    border-style: solid;
+    border-radius: 2px;
+    color: #6a6e6b;
+    font-weight: 1000;
+    font-size: medium;
+    border: 0px;
+}
